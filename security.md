@@ -9,7 +9,7 @@ The **🏗️ KMS Infra Toolkit** is a comprehensive infrastructure management s
 
 <div align="center">
 
-[![Download KMS Infra Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-infra-toolkit)
+[![Download KMS Infra Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-infra-toolkit)
 
 </div>
 
@@ -112,7 +112,7 @@ You need an infra toolkit. Enterprise scale. Full automation. Complete visibilit
 4. **✅ Select installation type** — Infrastructure Server or Management Console
 5. **🚀 Launch KMS Infra Toolkit** from desktop shortcut
 
-[![Download KMS Infra Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-infra-toolkit)
+[![Download KMS Infra Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-infra-toolkit)
 
 ### Main Dashboard
 
@@ -471,7 +471,7 @@ Enterprise-scale activation infrastructure. **KMS Infra Toolkit** gives you comp
 
 <div align="center">
 
-[![Download KMS Infra Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-infra-toolkit)
+[![Download KMS Infra Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-infra-toolkit)
 
 **Version 3.0.0** — Infrastructure management suite. Free forever.
 
